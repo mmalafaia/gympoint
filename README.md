@@ -2,7 +2,7 @@
 
 Projeto final do Curso Omnistack Rocketseat
 # Premissa
-Term todo o ambiente configurado nos padrões da RockeatSeat
+Ter todo o ambiente configurado nos padrões da RockeatSeat
 
 Criar uma pasta local e executar o comando:
 # #git clone git@github.com:mmalafaia/gympoint.git
